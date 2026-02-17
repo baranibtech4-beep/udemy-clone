@@ -44,4 +44,5 @@ The main goal of this project was:
 This project is purely built using HTML and CSS without JavaScript. It is a beginner-friendly project aimed at strengthening core web development fundamentals.
 
 ###Published Url
+
 You can view the website using this link https://github.com/baranibtech4-beep/udemy-clone.git
